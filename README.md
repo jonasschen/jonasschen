@@ -49,22 +49,22 @@ Each problem deserves the **most suitable tool, framework, or language** to achi
 ---
 
 ### 📊 GitHub Stats  
-![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonas-Schen&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Schen&layout=compact&theme=radical)  
+![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasschen&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasschen&layout=compact&theme=radical)  
 
 ---
 
 ### 🐍 Fun Section  
 
-![Snake animation](https://github.com/Jonas-Schen/Jonas-Schen/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/jonasschen/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
 ### 🌎 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasschen/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Jonas-Schen)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/jonasschen)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonasschen@gmail.com)  
 
 ---
 
-⭐️ From [Jonas-Schen](https://github.com/Jonas-Schen)
+⭐️ From [jonasschen](https://github.com/jonasschen)
