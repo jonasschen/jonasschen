@@ -1,4 +1,4 @@
-# Hi, I'm Jonas Schen 👋  
+# Hi, I'm Jonas Schen 😎
 
 ### 🚀 About Me  
 I’m passionate about solving meaningful and complex problems with simple, elegant solutions.  
