@@ -71,4 +71,8 @@ Each problem deserves the **most suitable tool, framework, or language** to achi
 
 ---
 
-⭐️ From [jonasschen](https://github.com/jonasschen)
+### 🔗 Explore More  
+
+If you enjoy my work here, make sure to also visit my other GitHub profile, where I share **a variety of open-source projects**:  
+
+[![Visit My Other Profile](https://img.shields.io/badge/GitHub-My%20Other%20Profile-000?logo=github&logoColor=white)](https://github.com/Jonas-Schen)
