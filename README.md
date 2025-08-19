@@ -54,7 +54,8 @@ Each problem deserves the **most suitable tool, framework, or language** to achi
 
 ### 🐍 Fun Section  
 
-![Snake animation](https://github.com/jonasschen/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://raw.githubusercontent.com/jonasschen/jonasschen/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/jonasschen/jonasschen/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
