@@ -50,8 +50,6 @@ Each problem deserves the **most suitable tool, framework, or language** to achi
 
 ### 📊 GitHub Stats  
 ![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasschen&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasschen&layout=compact&theme=radical)  
-
 ---
 
 ### 🐍 Fun Section  
