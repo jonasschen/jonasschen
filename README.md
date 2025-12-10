@@ -54,7 +54,6 @@ Each problem deserves the **most suitable tool, framework, or language** to achi
 ---
 
 ### 📊 GitHub Stats  
-![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasschen&show_icons=true&theme=radical)  
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/jonasschen/jonasschen/output/github-contribution-grid-snake.svg#gh-light-mode-only)
