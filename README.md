@@ -33,6 +33,22 @@ Each problem deserves the **most suitable tool, framework, or language** to achi
 
 ---
 
+### 💻 Open Source Projects  
+
+Here are some of my favorite open-source projects and contributions:  
+
+| Project | Description | Stack |
+|----------|--------------|--------|
+| [**Laravel Lang Monitor**](https://github.com/jonasschen/laravel-lang-monitor) | A Laravel package to identify missing translations in your app. | Laravel, PHP, JS, Blade, CSS |
+| [**Laravel Easy Audits**](https://github.com/jonasschen/laravel-easy-audits) | A quick and easy way to audit changes to your Laravel project's database. | Laravel, PHP |
+| [**Air Force One Rescue**](https://github.com/jonasschen/open-source-air-force-one-rescue) | A thrilling 3D web-based flight game where you pilot Air Force One through dangerous territory, avoiding enemies and managing fuel while completing rescue missions | Three.JS, JS, CSS |
+| [**Yahtzee Scorecard (Multiplayer Online)**](https://github.com/jonasschen/open-source-yahtzee-scorecard-multiplayer) | A browser-based Yahtzee scorecard with two modes:<br>- Single mode: keep score on one device.<br>- Online mode: pair two devices and keep scores synchronized via a QR code–mediated WebRTC connection.| JS, CSS, WebRTC |
+| [**Yahtzee Scorecard (Web)**](https://github.com/jonasschen/open-source-yahtzee-scorecard) | A lightweight, browser-based Yahtzee scorecard with a clean UI, on-screen numeric keyboard, and built-in rule validation. Track up to three players with tabs, persist scores in localStorage, and enjoy quick edit/rename flows.| JS, CSS |
+| [**Battery Check**](https://github.com/jonasschen/open-source-battery-check) | A simple Linux bash script that monitors your laptop battery and plays an audio alert when the power cable is unplugged.| Shell Script |
+| [**GuruShots Auto Voter**](https://github.com/jonasschen/open-source-gurushots-auto-voter) | An automated web bot for GuruShots photography challenges that saves you time by automatically casting votes on your behalf.| NodeJS |
+
+---
+
 ### 🛠️ Tech Stack  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)  
