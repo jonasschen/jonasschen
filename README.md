@@ -1,8 +1,9 @@
 # Hi, I'm Jonas Schen 😎
 
 ### 🚀 About Me  
-I’m passionate about solving meaningful and complex problems with simple, elegant solutions.  
-Beyond technology, I’m dedicated to my family, love photography, and enjoy sharing knowledge about cutting-edge innovations.  
+I believe I have strong skills in understanding and solving problems that are both challenging and meaningful—always striving to find simple solutions to complex issues.<br>
+I'm also passionate about my family and photography.<br>
+I'm a friendly and down-to-earth person who enjoys sharing knowledge and exchanging ideas about cutting-edge technologies.<br>
 
 - 🌟 **Self-motivated & self-taught**  
 - 🧘 Calm under pressure  
@@ -14,20 +15,21 @@ Beyond technology, I’m dedicated to my family, love photography, and enjoy sha
 ### 💼 What I’m Doing  
 - 🖥️ **20+ years of experience** in software development and system integration  
 - 🏗️ Hands-on experience in **project management, system architecture, hiring & leadership**  
-- 🚀 **Co-founder, co-creator, and CTO of 5Hub** (a product I’m very proud of)  
+- 🚀 **Co-founder, co-creator, and CTO of 5Hub** (a company I’m very proud of)  
 - 🤝 After a successful **M&A with CRM PipeRun**, I now work as a **Project Manager**  
 
 ---
 
 ### 💡 What I Believe  
-There’s no “one best technology.”  
-Each problem deserves the **most suitable tool, framework, or language** to achieve the best results.  
+Over the years, I’ve worked with various technologies, programming languages, and paradigms.<br>
+Today, I believe there's no “one best technology or language”, only the most suitable one for each specific need.<br>
+Each problem deserves the **most suitable tool, framework or language** to achieve the best results.  
 
 ---
 
 ### 🎯 Current Interests  
 - 🤖 Artificial Intelligence & Chatbots  
-- 📱 Mobile Development (Flutter)  
+- 📱 Mobile Development  
 - 🧩 Microservices & System Integration  
 - 🌐 Scalable Architectures  
 
