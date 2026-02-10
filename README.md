@@ -85,11 +85,3 @@ Here are some of my favorite open-source projects and contributions:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasschen/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/jonasschen)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonasschen@gmail.com)  
-
----
-
-### 🔗 Explore More  
-
-If you enjoy my work here, make sure to also visit my other GitHub profile, where I share **a variety of open-source projects**:  
-
-[![Visit My Other Profile](https://img.shields.io/badge/GitHub-My%20Other%20Profile-000?logo=github&logoColor=white)](https://github.com/Jonas-Schen)
